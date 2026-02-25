@@ -1,5 +1,5 @@
 ﻿# 📌 Customer Churn Analysis
-<img width="1536" height="1024" alt="customer churn analysis" src="https://github.com/user-attachments/assets/d6a7457a-209a-4947-9769-a74c4469efd4" />
+<img width="1536" height="757" alt="customer churn analysis" src="https://github.com/user-attachments/assets/ee0619d0-0ffe-4f30-b2e6-0169745b32cb" />
 
 
 ### 📖 Project Overview
@@ -131,4 +131,5 @@ Dedicated support helpline
 Simplified service plans
 
 Personalized assistance
+
 
