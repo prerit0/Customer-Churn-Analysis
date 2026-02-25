@@ -1,8 +1,8 @@
-﻿# 📌 Customer Churn Analysis
+﻿# Customer Churn Analysis
 <img width="1536" height="757" alt="customer churn analysis" src="https://github.com/user-attachments/assets/ee0619d0-0ffe-4f30-b2e6-0169745b32cb" />
 
 
-### 📖 Project Overview
+## Project Overview
 
 Customer churn is one of the most critical problems faced by subscription-based businesses. Retaining existing customers is significantly more cost-effective than acquiring new ones.
 
@@ -16,7 +16,7 @@ Discover high-risk customer segments
 
 Provide business-driven retention strategies
 
-### 📊 Dataset Information
+## Dataset Information
 
 Dataset: Telecom Customer Churn Dataset
 
@@ -32,7 +32,7 @@ Account Information (Tenure, Contract Type, Payment Method)
 
 Target Variable: Churn (Yes/No)
 
-### 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 Python
 
@@ -46,7 +46,7 @@ Seaborn
 
 Jupyter Notebook
 
-### 🔍 Key Insights from Analysis
+## Key Insights from Analysis
 
 1️⃣ Senior Citizens Show Higher Churn
 
@@ -94,11 +94,11 @@ Customers not enrolled in automatic payment have higher churn.
 
 Payment friction may reduce customer retention.
 
-📈 Business Recommendations
+## Business Recommendations
 
 Based on the findings, the following strategies are recommended:
 
-### 🚀 Improve Early Customer Onboarding
+## Improve Early Customer Onboarding
 
 Welcome campaigns
 
@@ -106,30 +106,31 @@ First 3-month engagement strategy
 
 Early support assistance
 
-### 💳 Promote Automatic Payments
+## Promote Automatic Payments
 
 Offer small discounts for auto-pay enrollment
 
 Provide reward points or cashback
 
-### 📦 Encourage Service Bundling
+## Encourage Service Bundling
 
 Bundle Internet + Security + Backup
 
 Offer discounted combo plans
 
-### 📆 Incentivize Long-Term Contracts
+## Incentivize Long-Term Contracts
 
 Discount for yearly subscriptions
 
 Loyalty rewards
 
-### 👵 Senior Citizen Retention Strategy
+## Senior Citizen Retention Strategy
 
 Dedicated support helpline
 
 Simplified service plans
 
 Personalized assistance
+
 
 
